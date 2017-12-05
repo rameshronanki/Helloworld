@@ -1,4 +1,4 @@
-package com.mkyong;
+package com.openshift;
 
 import java.io.IOException;
 import java.io.PrintWriter;

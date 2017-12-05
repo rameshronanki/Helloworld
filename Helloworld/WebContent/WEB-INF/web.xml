@@ -6,7 +6,7 @@ http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd">
 
 	<servlet>
 		<servlet-name>Servlet Name For Demo1</servlet-name>
-		<servlet-class>com.mkyong.ServletDemo1</servlet-class>
+		<servlet-class>com.openshift.ServletDemo1</servlet-class>
 	</servlet>
 
 	<servlet-mapping>
